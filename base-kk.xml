@@ -9,11 +9,11 @@
   <remote fetch="https://git.mozilla.org/releases" name="mozillaorg"/>
 
   <!-- B2G specific things. -->
-  <project name="platform_build" path="build" remote="b2g" revision="b2g-4.4.2_r1">
+  <project name="stunts513/platform_build" path="build" remote="gh" revision="b2g-4.4.2_r1">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project> 
   <project name="gaia" path="gaia" remote="mozillaorg" revision="master"/>
-  <project name="gecko" path="gecko" remote="mozillaorg" revision="master"/>
+  <project name="stunts513/gecko" path="gecko" remote="gh" revision="master"/>
   <project name="fake-libdvm" path="dalvik" remote="b2g" revision="master"/>
   <project name="gonk-misc" path="gonk-misc" remote="b2g" revision="master"/>
   <project name="moztt" path="external/moztt" remote="b2g" revision="master"/>
