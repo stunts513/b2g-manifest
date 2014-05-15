@@ -9,6 +9,7 @@
 
   <!-- Stock AOSP things we need -->
   <!-- Lets add these back as we go -->
+  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
 
   <!-- Amazon Kindle Projects -->
   <project path="kernel/amazon/otter-common" name="KFire-Android/kernel_omap_otter-common" remote="gh" revision="cm-11.0" />
