@@ -9,7 +9,13 @@
 
   <!-- Stock AOSP things we need -->
   <!-- Lets add these back as we go -->
+  <project name="platform/external/apache-http" path="external/apache-http"/>
+  <project name="platform/external/libphonenumber" path="external/libphonenumber"/>
+  <project name="platform/external/nist-sip" path="external/nist-sip"/>
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
+  <project name="platform/frameworks/opt/net/voip" path="frameworks/opt/net/voip"/>
+  <project name="platform/frameworks/opt/telephony" path="frameworks/opt/telephony"/>
+  <project name="platform/frameworks/support" path="frameworks/support"/>
 
   <!-- Amazon Kindle Projects -->
   <project path="kernel/amazon/otter-common" name="KFire-Android/kernel_omap_otter-common" remote="gh" revision="cm-11.0" />
