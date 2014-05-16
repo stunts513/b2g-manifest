@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <manifest>
 
-  <include name="base-kk.xml"/>
+  <include name="base-kk-aosp.xml"/>
 
   <remote fetch="git://github.com/" name="gh" />
 
