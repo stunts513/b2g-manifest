@@ -15,6 +15,7 @@
   <project name="platform/external/nist-sip" path="external/nist-sip"/>
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc"/>
+  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang"/>
   <project name="platform/frameworks/opt/net/voip" path="frameworks/opt/net/voip"/>
   <project name="platform/frameworks/opt/telephony" path="frameworks/opt/telephony"/>
   <project name="platform/frameworks/rs" path="frameworks/rs"/>
