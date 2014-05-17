@@ -11,6 +11,7 @@
   <!-- Lets add these back as we go -->
   <project name="platform/external/apache-http" path="external/apache-http"/>
   <project name="platform/external/clang" path="external/clang"/>
+  <project name="platform/external/compiler-rt" path="external/compiler-rt"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber"/>
   <project name="platform/external/llvm" path="external/llvm"/>
   <project name="platform/external/nist-sip" path="external/nist-sip"/>
