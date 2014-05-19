@@ -15,7 +15,6 @@
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
   <project name="platform/frameworks/opt/net/voip" path="frameworks/opt/net/voip"/>
   <project name="platform/frameworks/opt/telephony" path="frameworks/opt/telephony"/>
-  <project name="platform/frameworks/support" path="frameworks/support"/>
 
   <!-- Amazon Kindle Projects -->
   <project path="kernel/amazon/otter-common" name="KFire-Android/kernel_omap_otter-common" remote="gh" revision="cm-11.0" />
