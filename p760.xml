@@ -11,6 +11,7 @@
  <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" remote="gh" revision="cm-10.2" />
  <project path="kernel/goldfish" name="CyanogenMod/android_kernel_goldfish" remote="gh" revision="cm-10.1_2.6.29" />
  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
+ <project name="platform/hardware/broadcom/wlan/bcmdhd" path="hardware/broadcom/wlan/bcmdhd/"/>
 
  <!-- P760 Projects -->
  <project path="device/lge/p760" name="artas182x/android_device_lge_p760" remote="gh" revision="cm-10.2" />
